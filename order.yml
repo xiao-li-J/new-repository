@@ -1,6 +1,6 @@
 spring:
   application:
-    name: config
+    name: config_test
   cloud:
     config:
       server:
